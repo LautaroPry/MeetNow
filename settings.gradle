@@ -1,0 +1,2 @@
+rootProject.name='MeetNow'
+include ':app'
